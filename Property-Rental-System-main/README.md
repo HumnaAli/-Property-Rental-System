@@ -47,11 +47,13 @@ The Property Rental System is a program that recommends the user a suitable acco
 ## Contribution
 
 - Muhammad Toufeeq
+- Ahrar Ali
+- Zuha Fatima
 
 
 
 
 ## Contact
 
-If you have any feedback or would like to get in touch, please reach me at mfaisal1801@protonmail.com
+If you have any feedback or would like to get in touch, please reach me at humna.zaidi17@gmail.com
 
